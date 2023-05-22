@@ -1,4 +1,4 @@
-poop = new Audio('fuckyou.wav');
+poop = new Audio('fuckyou.mp3');
 poop.volume = 0.25
 if (typeof poop.loop == 'boolean')
 {
